@@ -61,7 +61,6 @@ declaration or outside of the function.*
 
 
 
-www.softclub.tj
 
 # Block Scope
 
